@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is basically a collection of personal thoughts, ideas and feelings. Something about technology, scientific research and life pleasure. Life is too short to learn, but try learning for fun.
 
-### More Information
+Try to be anonymous, take no responsibility for what I put here.
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Main interests
+
+- Linux
+- Coding
+- Embedded system
+- Smart Grid
+- Control Theory
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[newdreamlj(at)gmail.com](mailto:newdreamlj@gmail.com)

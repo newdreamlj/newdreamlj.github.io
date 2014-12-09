@@ -1,8 +1,10 @@
 ---
 layout: post
-title: You are still young, try something unusual. Hellow World!
+title:  Hellow World!
 ---
 
-**Never stop leaning**
+Have fun
 
-**Keeping on trying**
+Never stop leaning
+
+Keeping on trying

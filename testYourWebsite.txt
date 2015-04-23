@@ -1,0 +1,9 @@
+just here
+type
+$ jekyll serve
+
+then open a browser
+type
+localhost:4000
+
+you will see it

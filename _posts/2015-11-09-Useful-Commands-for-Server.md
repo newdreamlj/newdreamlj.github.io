@@ -12,6 +12,14 @@ Speficy the port number as you wish. Here we use 8080.
 	
 	
 	
+### Setting up FTP server on linux
+
+install vsftpd
+
+\> 	apt-get install vsftpd
+
+
+	
 	
 _More will be added here..._
 

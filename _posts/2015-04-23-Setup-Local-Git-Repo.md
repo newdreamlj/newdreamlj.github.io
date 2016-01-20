@@ -46,6 +46,9 @@ Additional providing some useful git commands.
 	$ git checkout BRANCHNAME
 	$ git branch BRANCHNAME
 	$ git rm --cached FILENAME
+	$ git stash
+	$ git stash pop
+	# git reset HEAD
 
 
 

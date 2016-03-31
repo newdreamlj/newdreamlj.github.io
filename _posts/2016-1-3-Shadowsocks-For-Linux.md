@@ -30,7 +30,7 @@ title:  shadowsocks for ubuntu
 
 7. 后台长期启动shadowsockts
 
-nohup ssserver -c /usr/local/lib/python2.7/dist-packages/shadowsocks/config.json > log &
+nohup ssserver -c /etc/shadowsocks/config.json > log &
 
 查看后台启动任务： jobs
 
@@ -46,14 +46,14 @@ sudo vim rc.local
 
 加上一行：
 
-/usr/local/bin/ssserver -c /usr/local/lib/python2.7/dist-packages/shadowsocks/config.json
+/usr/local/bin/ssserver -c /etc/shadowsocks/config.json
 
  
 
 9. 配置客户端：
 
 {
-"server":"50.116.34.99",
+"server":"0.0.0.0",
 "server_port":8388,
 "local_port":10808,
 "password":"bgt56yhn",

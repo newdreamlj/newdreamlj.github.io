@@ -59,3 +59,4 @@ For more information, refer to
 
 [CSDN blog of ithomer (Chinese)](http://blog.csdn.net/ithomer/article/details/7529022)
 
+	$ git checkout -b fixes 1b6d

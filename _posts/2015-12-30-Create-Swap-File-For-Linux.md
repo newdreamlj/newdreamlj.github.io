@@ -27,4 +27,4 @@ sudo sysctl vm.swappiness=10
 
 sudo vim /etc/sysctl.conf
 
-+ vm.swappiness=10 
+\+ vm.swappiness=10 
